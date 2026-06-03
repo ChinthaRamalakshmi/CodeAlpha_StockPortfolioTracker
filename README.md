@@ -54,4 +54,5 @@ This project demonstrates how Python can be used to simulate a basic stock portf
 👩‍💻 Author
 
 Chinta Ramalakshmi
+
 Python Programming Intern @ CodeAlpha
