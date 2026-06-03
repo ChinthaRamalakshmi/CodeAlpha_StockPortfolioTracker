@@ -17,15 +17,15 @@ To understand Python basics and financial calculation logic.
 
 ## ✨ Features
 
-### Predefined stock prices
-### Multiple stock input
-### Total calculation
+- Predefined stock prices
+- Multiple stock input
+- Total calculation
 
 ## 📚 Concepts Used
 
-### Dictionary
-### Loops
-### Conditions
+- Dictionary
+- Loops
+- Conditions
 
 ## 📸 Output
 ![Output Screenshot](output_screenshot.png)
